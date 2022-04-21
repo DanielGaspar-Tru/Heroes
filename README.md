@@ -67,15 +67,6 @@ Run the mobile application with `yarn ios` or `yarn android`;
 ## Project Structure
 
 ./src
-├── components
-├── enums
-├── features
-├── globals
-├── routes
-├── services
-├── store
-├── types
-├── util
 
 - components: application components following the Atomic Design pattern
 - enums: app's enums
